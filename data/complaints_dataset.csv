@@ -1,0 +1,421 @@
+complaint,category
+grading discrepancy in recent test in computer lab,Academics
+internal marks not updated on portal in main academic building,Academics
+syllabus not completed before exams in lecture hall,Academics
+lab marks not uploaded in engineering building,Academics
+lab marks not uploaded in hostel block A,Academics
+timetable clash between two courses in hostel block A,Academics
+assignment submission portal not working in lecture hall,Academics
+exam schedule overlapping with another subject in hostel block A,Academics
+lab marks not uploaded in hostel block A,Academics
+lab marks not uploaded in engineering building,Academics
+syllabus not completed before exams in lecture hall,Academics
+exam schedule overlapping with another subject in engineering building,Academics
+lab marks not uploaded in lecture hall,Academics
+timetable clash between two courses near administration office,Academics
+internal marks not updated on portal in hostel block A,Academics
+attendance marked incorrectly in hostel block A,Academics
+syllabus not completed before exams in library,Academics
+faculty frequently cancelling lectures in computer lab,Academics
+faculty frequently cancelling lectures in library,Academics
+assignment submission portal not working in library,Academics
+exam schedule overlapping with another subject in hostel block A,Academics
+internal marks not updated on portal in library,Academics
+exam schedule overlapping with another subject near administration office,Academics
+syllabus not completed before exams in campus cafeteria,Academics
+difficulty accessing course materials in engineering building,Academics
+internal marks not updated on portal in main academic building,Academics
+attendance marked incorrectly in main academic building,Academics
+lab marks not uploaded in engineering building,Academics
+assignment submission portal not working in computer lab,Academics
+lab marks not uploaded in classroom 204,Academics
+internal marks not updated on portal in hostel block A,Academics
+timetable clash between two courses in main academic building,Academics
+faculty frequently cancelling lectures in hostel block A,Academics
+timetable clash between two courses in campus cafeteria,Academics
+syllabus not completed before exams in campus cafeteria,Academics
+electricity outage in hostel block in library,Hostel
+water cooler not functioning near administration office,Hostel
+bathroom cleanliness is poor in lecture hall,Hostel
+bathroom cleanliness is poor in lecture hall,Hostel
+electricity outage in hostel block near administration office,Hostel
+mosquito problem in hostel rooms in campus cafeteria,Hostel
+hostel internet router down in classroom 204,Hostel
+hostel internet router down in library,Hostel
+bathroom cleanliness is poor in engineering building,Hostel
+garbage not collected in hostel corridor in hostel block A,Hostel
+hostel room lock broken in main academic building,Hostel
+electricity outage in hostel block near administration office,Hostel
+mosquito problem in hostel rooms near administration office,Hostel
+water cooler not functioning in lecture hall,Hostel
+water cooler not functioning in campus cafeteria,Hostel
+hostel room lock broken in computer lab,Hostel
+laundry facility not working in hostel block A,Hostel
+hostel internet router down in main academic building,Hostel
+laundry facility not working near administration office,Hostel
+bathroom cleanliness is poor in lecture hall,Hostel
+hostel room fan not working in campus cafeteria,Hostel
+room water supply not working in main academic building,Hostel
+water cooler not functioning in library,Hostel
+room water supply not working in library,Hostel
+mosquito problem in hostel rooms in lecture hall,Hostel
+laundry facility not working in classroom 204,Hostel
+bathroom cleanliness is poor in engineering building,Hostel
+laundry facility not working in campus cafeteria,Hostel
+water cooler not functioning in hostel block A,Hostel
+electricity outage in hostel block in library,Hostel
+laundry facility not working in main academic building,Hostel
+water cooler not functioning near administration office,Hostel
+laundry facility not working in lecture hall,Hostel
+bathroom cleanliness is poor in library,Hostel
+bathroom cleanliness is poor in hostel block B,Hostel
+menu not followed by mess staff in computer lab,Food / Mess
+mess kitchen cleanliness issue near administration office,Food / Mess
+milk quality in breakfast is poor in hostel block B,Food / Mess
+delay in food serving in mess in computer lab,Food / Mess
+mess food causing stomach problems in main academic building,Food / Mess
+mess food causing stomach problems in library,Food / Mess
+mess hygiene conditions are bad in lecture hall,Food / Mess
+mess food quality is very poor in computer lab,Food / Mess
+milk quality in breakfast is poor near administration office,Food / Mess
+mess kitchen cleanliness issue in engineering building,Food / Mess
+mess kitchen cleanliness issue in library,Food / Mess
+mess kitchen cleanliness issue in classroom 204,Food / Mess
+mess food causing stomach problems in campus cafeteria,Food / Mess
+food portions too small near administration office,Food / Mess
+mess food quality is very poor in lecture hall,Food / Mess
+mess food quality is very poor in library,Food / Mess
+mess hygiene conditions are bad in campus cafeteria,Food / Mess
+delay in food serving in mess in main academic building,Food / Mess
+mess hygiene conditions are bad in hostel block B,Food / Mess
+milk quality in breakfast is poor in lecture hall,Food / Mess
+food served cold in mess in lecture hall,Food / Mess
+mess kitchen cleanliness issue in lecture hall,Food / Mess
+menu not followed by mess staff in lecture hall,Food / Mess
+mess kitchen cleanliness issue in lecture hall,Food / Mess
+mess hygiene conditions are bad in hostel block A,Food / Mess
+menu not followed by mess staff in hostel block A,Food / Mess
+food portions too small near administration office,Food / Mess
+mess kitchen cleanliness issue in campus cafeteria,Food / Mess
+mess kitchen cleanliness issue in main academic building,Food / Mess
+mess kitchen cleanliness issue in engineering building,Food / Mess
+food served cold in mess in hostel block B,Food / Mess
+mess hygiene conditions are bad in hostel block A,Food / Mess
+delay in food serving in mess in main academic building,Food / Mess
+delay in food serving in mess near administration office,Food / Mess
+insufficient food during dinner time in hostel block A,Food / Mess
+internet speed very slow in library in computer lab,Internet
+campus wifi signal very weak in main academic building,Internet
+network outage in hostel block in engineering building,Internet
+internet disconnects frequently in classroom 204,Internet
+wifi not working in classroom in computer lab,Internet
+wifi router down in building near administration office,Internet
+wifi router down in building in classroom 204,Internet
+wifi router down in building in main academic building,Internet
+campus wifi signal very weak in hostel block A,Internet
+wifi login authentication failing in engineering building,Internet
+internet speed very slow in library near administration office,Internet
+cannot connect to campus wifi in lecture hall,Internet
+campus wifi signal very weak in lecture hall,Internet
+wifi not working in classroom in lecture hall,Internet
+internet disconnects frequently in hostel block A,Internet
+internet speed very slow in library in campus cafeteria,Internet
+lan port not functioning in lab in hostel block B,Internet
+wifi extremely slow in hostel in hostel block A,Internet
+cannot connect to campus wifi in campus cafeteria,Internet
+campus wifi signal very weak in hostel block B,Internet
+network outage in hostel block in hostel block A,Internet
+network outage in hostel block in hostel block B,Internet
+internet disconnects frequently in main academic building,Internet
+network outage in hostel block in main academic building,Internet
+wifi login authentication failing in hostel block B,Internet
+wifi router down in building in hostel block B,Internet
+wifi extremely slow in hostel in computer lab,Internet
+lan port not functioning in lab in main academic building,Internet
+wifi router down in building in main academic building,Internet
+internet disconnects frequently in campus cafeteria,Internet
+cannot connect to campus wifi near administration office,Internet
+cannot connect to campus wifi in campus cafeteria,Internet
+lan port not functioning in lab near administration office,Internet
+internet disconnects frequently in main academic building,Internet
+wifi login authentication failing near administration office,Internet
+air conditioner not working in classroom in main academic building,Infrastructure
+poor classroom ventilation in lecture hall,Infrastructure
+classroom fan not functioning in main academic building,Infrastructure
+whiteboard damaged in lecture hall in engineering building,Infrastructure
+classroom projector not working in hostel block B,Infrastructure
+windows broken in lecture hall in classroom 204,Infrastructure
+classroom fan not functioning in library,Infrastructure
+poor classroom ventilation in campus cafeteria,Infrastructure
+classroom fan not functioning in computer lab,Infrastructure
+classroom projector not working in campus cafeteria,Infrastructure
+classroom fan not functioning in lecture hall,Infrastructure
+ceiling leakage in classroom in engineering building,Infrastructure
+poor classroom ventilation in engineering building,Infrastructure
+ceiling leakage in classroom in main academic building,Infrastructure
+windows broken in lecture hall in library,Infrastructure
+broken chairs in classroom in main academic building,Infrastructure
+classroom lights flickering in computer lab,Infrastructure
+classroom fan not functioning in computer lab,Infrastructure
+classroom projector not working in hostel block B,Infrastructure
+air conditioner not working in classroom in engineering building,Infrastructure
+damaged desks in lecture room in campus cafeteria,Infrastructure
+windows broken in lecture hall in classroom 204,Infrastructure
+poor classroom ventilation in campus cafeteria,Infrastructure
+poor classroom ventilation in computer lab,Infrastructure
+classroom fan not functioning in campus cafeteria,Infrastructure
+classroom projector not working in hostel block B,Infrastructure
+poor classroom ventilation in hostel block A,Infrastructure
+classroom lights flickering in hostel block B,Infrastructure
+classroom fan not functioning in classroom 204,Infrastructure
+poor classroom ventilation in main academic building,Infrastructure
+broken chairs in classroom in main academic building,Infrastructure
+air conditioner not working in classroom in main academic building,Infrastructure
+air conditioner not working in classroom in engineering building,Infrastructure
+classroom lights flickering in campus cafeteria,Infrastructure
+whiteboard damaged in lecture hall in campus cafeteria,Infrastructure
+required lab equipment missing in lecture hall,Laboratory
+lab air conditioning not working in computer lab,Laboratory
+lab air conditioning not working in hostel block A,Laboratory
+lab printer not working in classroom 204,Laboratory
+lab computer not working in classroom 204,Laboratory
+lab printer not working near administration office,Laboratory
+lab computer not working in hostel block A,Laboratory
+lab projector malfunction in hostel block A,Laboratory
+insufficient computers for students in lecture hall,Laboratory
+software not installed in lab systems in hostel block A,Laboratory
+lab projector malfunction in campus cafeteria,Laboratory
+broken keyboard in lab computer in computer lab,Laboratory
+lab machines frequently crashing near administration office,Laboratory
+lab printer not working in classroom 204,Laboratory
+lab printer not working in hostel block B,Laboratory
+lab projector malfunction in library,Laboratory
+lab projector malfunction in lecture hall,Laboratory
+lab computer not working in classroom 204,Laboratory
+lab computer not working in lecture hall,Laboratory
+required lab equipment missing in lecture hall,Laboratory
+lab network not functioning in hostel block A,Laboratory
+lab machines frequently crashing in main academic building,Laboratory
+insufficient computers for students in library,Laboratory
+lab projector malfunction in lecture hall,Laboratory
+required lab equipment missing in hostel block A,Laboratory
+lab air conditioning not working in computer lab,Laboratory
+broken keyboard in lab computer in library,Laboratory
+lab projector malfunction in campus cafeteria,Laboratory
+broken keyboard in lab computer in main academic building,Laboratory
+lab projector malfunction in hostel block A,Laboratory
+insufficient computers for students in engineering building,Laboratory
+lab network not functioning in library,Laboratory
+lab machines frequently crashing in campus cafeteria,Laboratory
+lab network not functioning in computer lab,Laboratory
+software not installed in lab systems in engineering building,Laboratory
+library too noisy for study in computer lab,Library
+library lighting insufficient in hostel block B,Library
+insufficient seating in library in lecture hall,Library
+wifi slow in library in classroom 204,Library
+difficulty accessing digital library in library,Library
+library lighting insufficient in engineering building,Library
+printer not working in library in lecture hall,Library
+insufficient seating in library in library,Library
+difficulty accessing digital library in hostel block A,Library
+library too noisy for study in main academic building,Library
+library closing earlier than scheduled in classroom 204,Library
+difficulty accessing digital library in campus cafeteria,Library
+library lighting insufficient in lecture hall,Library
+library closing earlier than scheduled in campus cafeteria,Library
+required textbooks not available in lecture hall,Library
+difficulty accessing digital library in hostel block A,Library
+printer not working in library in hostel block A,Library
+library computers not working in library,Library
+library too noisy for study in hostel block A,Library
+difficulty accessing digital library in campus cafeteria,Library
+wifi slow in library near administration office,Library
+library lighting insufficient in library,Library
+library air conditioning not working in main academic building,Library
+library air conditioning not working in engineering building,Library
+library air conditioning not working in computer lab,Library
+required textbooks not available in lecture hall,Library
+library air conditioning not working in hostel block B,Library
+printer not working in library in engineering building,Library
+library too noisy for study in campus cafeteria,Library
+printer not working in library near administration office,Library
+library lighting insufficient in campus cafeteria,Library
+library too noisy for study in library,Library
+required textbooks not available in main academic building,Library
+library lighting insufficient in library,Library
+library air conditioning not working in hostel block A,Library
+bus air conditioning not working in lecture hall,Transport
+transport route timing mismatch in library,Transport
+insufficient buses for students in hostel block B,Transport
+delay in evening bus service near administration office,Transport
+bus air conditioning not working in lecture hall,Transport
+bus breakdown frequently in classroom 204,Transport
+bus seat damaged near administration office,Transport
+bus overcrowded during morning route in hostel block B,Transport
+bus seat damaged in classroom 204,Transport
+bus air conditioning not working in hostel block A,Transport
+bus overcrowded during morning route in classroom 204,Transport
+bus seat damaged in computer lab,Transport
+transport route timing mismatch in hostel block A,Transport
+college bus arriving late in classroom 204,Transport
+bus driver skipping stop in computer lab,Transport
+insufficient buses for students in hostel block A,Transport
+bus seat damaged in main academic building,Transport
+transport route timing mismatch in campus cafeteria,Transport
+delay in evening bus service in library,Transport
+college bus arriving late in hostel block B,Transport
+delay in evening bus service in classroom 204,Transport
+bus driver skipping stop in computer lab,Transport
+college bus arriving late in hostel block B,Transport
+transport route timing mismatch in library,Transport
+bus route information not updated in classroom 204,Transport
+bus breakdown frequently in computer lab,Transport
+bus route information not updated near administration office,Transport
+bus seat damaged in classroom 204,Transport
+delay in evening bus service in campus cafeteria,Transport
+bus breakdown frequently in campus cafeteria,Transport
+delay in evening bus service in campus cafeteria,Transport
+bus driver skipping stop in classroom 204,Transport
+delay in evening bus service in main academic building,Transport
+bus breakdown frequently in hostel block B,Transport
+insufficient buses for students in hostel block A,Transport
+campus pathway lights not working in engineering building,Facilities
+drinking water facility not working near administration office,Facilities
+water cooler not functioning in classroom 204,Facilities
+water cooler not functioning in hostel block A,Facilities
+dustbins overflowing on campus in campus cafeteria,Facilities
+parking space insufficient in computer lab,Facilities
+campus restroom cleanliness poor near administration office,Facilities
+campus restroom cleanliness poor in classroom 204,Facilities
+campus restroom cleanliness poor in lecture hall,Facilities
+campus restroom cleanliness poor in campus cafeteria,Facilities
+campus benches broken in computer lab,Facilities
+campus benches broken in lecture hall,Facilities
+drinking water facility not working in engineering building,Facilities
+campus signage unclear in computer lab,Facilities
+campus signage unclear in campus cafeteria,Facilities
+water cooler not functioning in main academic building,Facilities
+campus signage unclear in lecture hall,Facilities
+campus signage unclear in engineering building,Facilities
+parking space insufficient in hostel block B,Facilities
+parking space insufficient in hostel block B,Facilities
+dustbins overflowing on campus in hostel block B,Facilities
+dustbins overflowing on campus in hostel block B,Facilities
+water cooler not functioning in engineering building,Facilities
+restroom water supply issue in computer lab,Facilities
+campus pathway lights not working in library,Facilities
+dustbins overflowing on campus in library,Facilities
+campus benches broken in engineering building,Facilities
+dustbins overflowing on campus in computer lab,Facilities
+campus signage unclear in hostel block A,Facilities
+parking space insufficient in hostel block A,Facilities
+restroom water supply issue in campus cafeteria,Facilities
+parking space insufficient in campus cafeteria,Facilities
+campus signage unclear in main academic building,Facilities
+campus signage unclear in campus cafeteria,Facilities
+parking space insufficient in campus cafeteria,Facilities
+fee payment portal not working in computer lab,Administration
+administration office response very slow in computer lab,Administration
+document verification delay in library,Administration
+student ID card not generated in lecture hall,Administration
+scholarship processing delay in library,Administration
+fee payment portal not working in lecture hall,Administration
+registration portal error in main academic building,Administration
+document verification delay in hostel block A,Administration
+document verification delay in library,Administration
+incorrect information in student records in lecture hall,Administration
+transcript request not processed in computer lab,Administration
+fee payment portal not working in campus cafeteria,Administration
+scholarship processing delay in computer lab,Administration
+transcript request not processed in campus cafeteria,Administration
+student ID card not generated in campus cafeteria,Administration
+registration portal error in library,Administration
+fee payment portal not working in library,Administration
+registration portal error in campus cafeteria,Administration
+incorrect information in student records in hostel block A,Administration
+incorrect information in student records in library,Administration
+scholarship processing delay in library,Administration
+student ID card not generated in campus cafeteria,Administration
+delay in issuing certificates in hostel block B,Administration
+administration office response very slow in classroom 204,Administration
+registration portal error in engineering building,Administration
+administrative approval taking too long in main academic building,Administration
+registration portal error near administration office,Administration
+delay in issuing certificates in engineering building,Administration
+delay in issuing certificates in campus cafeteria,Administration
+delay in issuing certificates in campus cafeteria,Administration
+incorrect information in student records in engineering building,Administration
+student ID card not generated near administration office,Administration
+incorrect information in student records near administration office,Administration
+fee payment portal not working in lecture hall,Administration
+incorrect information in student records in engineering building,Administration
+night security inadequate in engineering building,Security
+unauthorized people entering campus in hostel block A,Security
+lost item not reported properly near administration office,Security
+theft reported in hostel in main academic building,Security
+campus security patrol insufficient in engineering building,Security
+security guards not present at gate in main academic building,Security
+security guards not present at gate in library,Security
+security staff behavior inappropriate in main academic building,Security
+night security inadequate in classroom 204,Security
+lost item not reported properly in hostel block A,Security
+campus security patrol insufficient in main academic building,Security
+night security inadequate in computer lab,Security
+security gate malfunction in campus cafeteria,Security
+lost item not reported properly in lecture hall,Security
+unauthorized people entering campus near administration office,Security
+security cameras not working in computer lab,Security
+unauthorized people entering campus in lecture hall,Security
+security gate malfunction in lecture hall,Security
+security cameras not working in campus cafeteria,Security
+night security inadequate in computer lab,Security
+security guards not present at gate in classroom 204,Security
+security gate malfunction in campus cafeteria,Security
+theft reported in hostel in campus cafeteria,Security
+security guards not present at gate in campus cafeteria,Security
+security gate malfunction in main academic building,Security
+lost item not reported properly in lecture hall,Security
+security staff behavior inappropriate in hostel block A,Security
+lost item not reported properly in campus cafeteria,Security
+security staff behavior inappropriate in hostel block B,Security
+hostel entry control weak in lecture hall,Security
+security guards not present at gate in hostel block B,Security
+hostel entry control weak in classroom 204,Security
+hostel entry control weak near administration office,Security
+unauthorized people entering campus in hostel block A,Security
+theft reported in hostel in main academic building,Security
+electrical panel making noise in engineering building,Electrical
+electric wiring exposed in hostel block B,Electrical
+electrical panel making noise in lecture hall,Electrical
+classroom lights not working near administration office,Electrical
+plug points not working near administration office,Electrical
+plug points not working in hostel block A,Electrical
+ceiling lights flickering in hostel block A,Electrical
+classroom lights not working in main academic building,Electrical
+lab electrical supply unstable in campus cafeteria,Electrical
+electrical panel making noise in classroom 204,Electrical
+electrical maintenance delay in engineering building,Electrical
+electric wiring exposed in main academic building,Electrical
+power outage in hostel building in library,Electrical
+electrical sparks from socket in classroom 204,Electrical
+electrical sparks from socket in hostel block B,Electrical
+electrical panel making noise in classroom 204,Electrical
+electrical maintenance delay in engineering building,Electrical
+power outage in hostel building near administration office,Electrical
+classroom lights not working in engineering building,Electrical
+ceiling lights flickering in computer lab,Electrical
+campus generator not functioning in computer lab,Electrical
+plug points not working in computer lab,Electrical
+campus generator not functioning in library,Electrical
+lab electrical supply unstable in hostel block A,Electrical
+electrical maintenance delay in computer lab,Electrical
+power outage in hostel building in classroom 204,Electrical
+electrical panel making noise in campus cafeteria,Electrical
+ceiling lights flickering in lecture hall,Electrical
+power outage in hostel building in hostel block B,Electrical
+plug points not working near administration office,Electrical
+lab electrical supply unstable in hostel block B,Electrical
+electrical sparks from socket in engineering building,Electrical
+electrical sparks from socket in hostel block A,Electrical
+electric wiring exposed in classroom 204,Electrical
+electrical sparks from socket in hostel block A,Electrical

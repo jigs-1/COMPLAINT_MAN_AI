@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Hugging Face / Transformers
+bert_classifier/checkpoint-*/
+checkpoints/
+models/
+
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+# Cache
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
